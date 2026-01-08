@@ -1,0 +1,10 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add custom body styles for the dark theme */
+body {
+  background-color: #000000;
+  color: #F4F4F5; /* zinc-100 */
+}
